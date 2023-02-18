@@ -12,6 +12,23 @@ I Mainly work on SPFx WebParts with React / TypeScript, and some backends with A
 - Rust, for low-energy and embarked computed.
 - Go, for modern and scallable server application.
 
+## 💼 I'm experienced with
+
+- JavaScript / TypeScript universe (backend / frontend / frameworks)
+  - Backend
+    - Node.js
+    - AdonisJS
+    - Strapi
+    - Express
+  - Frontend
+    - React
+    - Vue
+    - Angular
+    - Tailwind
+    - Bootstrap
+- C# with ASP.NET Core and EntityFramework
+- Java with Spring Boot
+
 <!--
 **tpoisseau/tpoisseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
