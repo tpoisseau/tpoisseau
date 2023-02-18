@@ -33,6 +33,8 @@ I Mainly work on SPFx WebParts with React / TypeScript, and some backends with A
 
 Here, in french : https://tpoisseau.github.io/tpoisseau/
 
+Or you can reach me in LinkedIn : https://www.linkedin.com/in/theotime-poisseau-5225b1125/
+
 <!--
 **tpoisseau/tpoisseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
