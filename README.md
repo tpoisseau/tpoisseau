@@ -29,6 +29,10 @@ I Mainly work on SPFx WebParts with React / TypeScript, and some backends with A
 - C# with ASP.NET Core and EntityFramework
 - Java with Spring Boot
 
+## 📫 Find my complete resume
+
+Here, in french : https://tpoisseau.github.io/tpoisseau/
+
 <!--
 **tpoisseau/tpoisseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
