@@ -2,10 +2,10 @@
 
 I'm a versatile Web Software Engineer, I know lot of lang and framework, expert in some of them, self-taught and fast-learner.
 
-## 🔭 I’m currently working at CGI
+## 🔭 I’m currently working at Zakodium
 
-On mission for Michelin in team specialized on Microsoft Office Tools.
-I Mainly work on SPFx WebParts with React / TypeScript, and some backends with ASP.NET Core and PostgreSQL
+Working on forensic and scientific tools.
+I mainly work with React / Typescript with tailwind or emotion css for frontend, and AdonisJS and PostgreSQL or MongoDB for backend.
 
 ## 🌱 I’m currently learning
 
