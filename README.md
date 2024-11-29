@@ -11,6 +11,7 @@ I mainly work with React / Typescript with tailwind or emotion css for frontend,
 
 - Rust, for low-energy and embarked computed.
 - Go, for modern and scallable server application.
+- C / C++, for native and bindings accross multiple languages and contribute to Node.js
 
 ## 💼 I'm experienced with
 
