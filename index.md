@@ -76,8 +76,8 @@ Missions de Développement BI :
 
 - Javascript - React / Vue / Angular
 - Node.js - Express / AdonisJS / Strapi
-- Git - Git Flow
-- HTML / CSS - FluentUI / Bootstrap
+- Git - Git Flow / Github flow
+- HTML / CSS - FluentUI / Bootstrap / Tailwind
 - SQL - PostgreSQL / MySQL / sqlite
 - C# - <span>ASP</span>.NET Core
 - NoSQL - MongoDB
